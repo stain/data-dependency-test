@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openphacts.data</groupId>
-  <artifactId>chembl-linkset-ims</artifactId>
+  <artifactId>ops-linkset-chembl</artifactId>
   <version>20.0</version>
   <packaging>jar</packaging>
-  <name>chembl data test</name>
+  <name>OpenPHACTS linkset ChEMBL</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -43,6 +43,7 @@
           <outputDirectory>${project.build.outputDirectory}</outputDirectory>
         </configuration>
       </plugin>
+
 
     </plugins>
   </build>
