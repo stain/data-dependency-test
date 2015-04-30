@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<loadSteps>
+	<clearAll/>
+  <void>file:///staging/chembl/void.ttl.gz</void>
+  <linkset>file:///staging/chembl_20.0_target_targetcmpt_ls.ttl.gz</linkset>
+  <linkset>file:///staging/chembl_20.0_targetcmpt_uniprot_ls.ttl.gz</linkset>
+  <linkset>file:///staging/chembl_20.0_molecule_chebi_ls.ttl.gz</linkset>
+</loadSteps>
